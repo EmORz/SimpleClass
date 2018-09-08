@@ -1,0 +1,11 @@
+c:\users\user\source\repos\SomeTrainWithClass\Dog\bin\Debug\netcoreapp2.0\Dog.deps.json
+c:\users\user\source\repos\SomeTrainWithClass\Dog\bin\Debug\netcoreapp2.0\Dog.runtimeconfig.json
+c:\users\user\source\repos\SomeTrainWithClass\Dog\bin\Debug\netcoreapp2.0\Dog.runtimeconfig.dev.json
+c:\users\user\source\repos\SomeTrainWithClass\Dog\bin\Debug\netcoreapp2.0\Dog.dll
+c:\users\user\source\repos\SomeTrainWithClass\Dog\bin\Debug\netcoreapp2.0\Dog.pdb
+c:\users\user\source\repos\SomeTrainWithClass\Dog\obj\Debug\netcoreapp2.0\Dog.csprojAssemblyReference.cache
+c:\users\user\source\repos\SomeTrainWithClass\Dog\obj\Debug\netcoreapp2.0\Dog.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SomeTrainWithClass\Dog\obj\Debug\netcoreapp2.0\Dog.AssemblyInfoInputs.cache
+c:\users\user\source\repos\SomeTrainWithClass\Dog\obj\Debug\netcoreapp2.0\Dog.AssemblyInfo.cs
+c:\users\user\source\repos\SomeTrainWithClass\Dog\obj\Debug\netcoreapp2.0\Dog.dll
+c:\users\user\source\repos\SomeTrainWithClass\Dog\obj\Debug\netcoreapp2.0\Dog.pdb
