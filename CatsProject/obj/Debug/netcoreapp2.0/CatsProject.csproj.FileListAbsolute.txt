@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\CatsProject\bin\Debug\netcoreapp2.0\CatsProject.deps.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\CatsProject\bin\Debug\netcoreapp2.0\CatsProject.runtimeconfig.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\CatsProject\bin\Debug\netcoreapp2.0\CatsProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\CatsProject\bin\Debug\netcoreapp2.0\CatsProject.dll
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\CatsProject\bin\Debug\netcoreapp2.0\CatsProject.pdb
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\CatsProject\obj\Debug\netcoreapp2.0\CatsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\CatsProject\obj\Debug\netcoreapp2.0\CatsProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\CatsProject\obj\Debug\netcoreapp2.0\CatsProject.AssemblyInfo.cs
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\CatsProject\obj\Debug\netcoreapp2.0\CatsProject.dll
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\CatsProject\obj\Debug\netcoreapp2.0\CatsProject.pdb

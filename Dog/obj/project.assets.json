@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\source\\repos\\SomeTrainWithClass\\Dog\\Dog.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\SimpleClass\\Dog\\Dog.csproj",
       "projectName": "Dog",
-      "projectPath": "c:\\users\\user\\source\\repos\\SomeTrainWithClass\\Dog\\Dog.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\SimpleClass\\Dog\\Dog.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\user\\source\\repos\\SomeTrainWithClass\\Dog\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\SimpleClass\\Dog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\PasswordGenerator\\PasswordGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\SimpleClass\\PasswordGenerator\\PasswordGenerator.csproj",
       "projectName": "PasswordGenerator",
-      "projectPath": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\PasswordGenerator\\PasswordGenerator.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\SimpleClass\\PasswordGenerator\\PasswordGenerator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\PasswordGenerator\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\SimpleClass\\PasswordGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\TriangleHipothen\bin\Debug\netcoreapp2.0\TriangleHipothen.deps.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\TriangleHipothen\bin\Debug\netcoreapp2.0\TriangleHipothen.runtimeconfig.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\TriangleHipothen\bin\Debug\netcoreapp2.0\TriangleHipothen.runtimeconfig.dev.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\TriangleHipothen\bin\Debug\netcoreapp2.0\TriangleHipothen.dll
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\TriangleHipothen\bin\Debug\netcoreapp2.0\TriangleHipothen.pdb
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\TriangleHipothen\obj\Debug\netcoreapp2.0\TriangleHipothen.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\TriangleHipothen\obj\Debug\netcoreapp2.0\TriangleHipothen.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\TriangleHipothen\obj\Debug\netcoreapp2.0\TriangleHipothen.AssemblyInfo.cs
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\TriangleHipothen\obj\Debug\netcoreapp2.0\TriangleHipothen.dll
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\TriangleHipothen\obj\Debug\netcoreapp2.0\TriangleHipothen.pdb

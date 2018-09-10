@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\YearLeapOrNot\bin\Debug\netcoreapp2.0\YearLeapOrNot.deps.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\YearLeapOrNot\bin\Debug\netcoreapp2.0\YearLeapOrNot.runtimeconfig.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\YearLeapOrNot\bin\Debug\netcoreapp2.0\YearLeapOrNot.runtimeconfig.dev.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\YearLeapOrNot\bin\Debug\netcoreapp2.0\YearLeapOrNot.dll
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\YearLeapOrNot\bin\Debug\netcoreapp2.0\YearLeapOrNot.pdb
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\YearLeapOrNot\obj\Debug\netcoreapp2.0\YearLeapOrNot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\YearLeapOrNot\obj\Debug\netcoreapp2.0\YearLeapOrNot.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\YearLeapOrNot\obj\Debug\netcoreapp2.0\YearLeapOrNot.AssemblyInfo.cs
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\YearLeapOrNot\obj\Debug\netcoreapp2.0\YearLeapOrNot.dll
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\YearLeapOrNot\obj\Debug\netcoreapp2.0\YearLeapOrNot.pdb

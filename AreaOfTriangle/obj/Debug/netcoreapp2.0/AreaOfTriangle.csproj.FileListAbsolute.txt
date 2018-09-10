@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\bin\Debug\netcoreapp2.0\AreaOfTriangle.deps.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\bin\Debug\netcoreapp2.0\AreaOfTriangle.runtimeconfig.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\bin\Debug\netcoreapp2.0\AreaOfTriangle.runtimeconfig.dev.json
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\bin\Debug\netcoreapp2.0\AreaOfTriangle.dll
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\bin\Debug\netcoreapp2.0\AreaOfTriangle.pdb
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\obj\Debug\netcoreapp2.0\AreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\obj\Debug\netcoreapp2.0\AreaOfTriangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\obj\Debug\netcoreapp2.0\AreaOfTriangle.AssemblyInfo.cs
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\obj\Debug\netcoreapp2.0\AreaOfTriangle.dll
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\obj\Debug\netcoreapp2.0\AreaOfTriangle.pdb
+C:\Users\User\source\repos\SomeTrainWithClass\SimpleClass\AreaOfTriangle\obj\Debug\netcoreapp2.0\AreaOfTriangle.csprojAssemblyReference.cache

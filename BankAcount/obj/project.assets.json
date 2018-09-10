@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\source\\repos\\SomeTrainWithClass\\BankAcount\\BankAcount.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\SimpleClass\\BankAcount\\BankAcount.csproj",
       "projectName": "BankAcount",
-      "projectPath": "c:\\users\\user\\source\\repos\\SomeTrainWithClass\\BankAcount\\BankAcount.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\SimpleClass\\BankAcount\\BankAcount.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\user\\source\\repos\\SomeTrainWithClass\\BankAcount\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\SomeTrainWithClass\\SimpleClass\\BankAcount\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
